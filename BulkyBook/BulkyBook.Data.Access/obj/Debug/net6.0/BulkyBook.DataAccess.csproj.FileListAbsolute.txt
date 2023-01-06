@@ -1,0 +1,17 @@
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Udemy\Course1\BulkyBook\BulkyBook.Data.Access\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
