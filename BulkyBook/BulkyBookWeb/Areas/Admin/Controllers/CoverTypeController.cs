@@ -17,8 +17,8 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<CoverType> objCategoryList = _unitOfWork.CoverType.GetAll();
-            return View(objCategoryList);
+            IEnumerable<CoverType> objCoverTypeList = _unitOfWork.CoverType.GetAll();
+            return View(objCoverTypeList);
         }
 
         //GET
@@ -50,14 +50,14 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            var categoryFromDb = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
+            var coverTypeFromDb = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
 
-            if (categoryFromDb == null)
+            if (coverTypeFromDb == null)
             {
                 return NotFound();
             }
 
-            return View(categoryFromDb);
+            return View(coverTypeFromDb);
         }
 
         //POST
@@ -83,14 +83,14 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            var categoryFromDb = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
+            var coverTypeFromDb = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
 
-            if (categoryFromDb == null)
+            if (coverTypeFromDb == null)
             {
                 return NotFound();
             }
 
-            return View(categoryFromDb);
+            return View(coverTypeFromDb);
         }
 
         //POST
