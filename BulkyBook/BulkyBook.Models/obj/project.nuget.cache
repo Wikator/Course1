@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tASpiSeSsaCXzty9OVRTELEmjaKKyZkfOVokBa3UmRa+J5DN3wUOB9xNShS3+KKMmW/hi1dP1Cu6Efj4J1GMRg==",
+  "dgSpecHash": "O3MiiunHM6UQElVQxUxqMQd/H3scPpDvTJnb3+6PBEzFQvVOwVacUuCFIN0adh11GuU8nJv9tbE4YhjJBjnvEw==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
   "expectedPackageFiles": [
@@ -131,7 +131,9 @@
     "C:\\Users\\w\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
     "C:\\Users\\w\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\w\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\w\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\w\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512"
   ],
   "logs": []
 }

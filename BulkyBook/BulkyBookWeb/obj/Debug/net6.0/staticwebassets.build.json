@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jncTMjOEAl/DWEjXptW7Zy/9dhhUpOhbXQjdt31sLVw=",
+  "Hash": "41/afJTS36AMbpDXp5n5Qw0pbYaVGn9o2pKzqYCmiGg=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Udemy\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\4af4b591-8f3c-45c6-aa75-2a9067332c9d.png",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Udemy\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/4af4b591-8f3c-45c6-aa75-2a9067332c9d.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\4af4b591-8f3c-45c6-aa75-2a9067332c9d.png"
     },
     {
       "Identity": "C:\\Udemy\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
