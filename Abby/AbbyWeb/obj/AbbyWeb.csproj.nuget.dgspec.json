@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj": {}
+    "C:\\Projects\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj": {
+    "C:\\Projects\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj",
+        "projectUniqueName": "C:\\Projects\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj",
         "projectName": "AbbyWeb",
-        "projectPath": "C:\\Udemy\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj",
-        "packagesPath": "C:\\Users\\w\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\Course1\\Abby\\AbbyWeb\\obj\\",
+        "projectPath": "C:\\Projects\\Course1\\Abby\\AbbyWeb\\AbbyWeb.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Course1\\Abby\\AbbyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
         }
       }
     }
