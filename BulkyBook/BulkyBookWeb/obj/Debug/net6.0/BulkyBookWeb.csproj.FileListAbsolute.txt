@@ -576,3 +576,8 @@ C:\Projects\Course1\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore
 C:\Projects\Course1\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Projects\Course1\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.dll
 C:\Projects\Course1\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Projects\Course1\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Course1\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+C:\Projects\Course1\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+C:\Projects\Course1\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+C:\Projects\Course1\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.pack.json
