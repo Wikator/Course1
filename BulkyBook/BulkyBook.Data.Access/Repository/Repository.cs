@@ -6,7 +6,7 @@ namespace BulkyBook.DataAccess.Repository
 {
     public class Repository<T> : IRepository<T> where T : class
     {
-        private readonly ApplicationDbContext _db;
+        protected readonly ApplicationDbContext _db;
         internal DbSet<T> dbSet;
 
         public Repository(ApplicationDbContext db)
@@ -15,7 +15,6 @@ namespace BulkyBook.DataAccess.Repository
             //_db.Products.Include(u => u.Category).Include(u => u.CoverType);
             dbSet = _db.Set<T>();
         }
-
         
         public void Add(T entity)
         {

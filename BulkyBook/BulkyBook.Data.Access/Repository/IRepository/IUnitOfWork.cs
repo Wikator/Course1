@@ -14,6 +14,10 @@
 
         IShoppingCartRepository ShoppingCart { get; }
 
-        void Save();
+		IOrderDetailRepository OrderDetail { get; }
+
+		IOrderHeaderRepository OrderHeader { get; }
+
+		void Save();
     }
 }
