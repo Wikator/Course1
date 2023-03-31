@@ -782,19 +782,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\wikto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\wikto\\Source\\Repos\\Course1\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Utility\\obj\\",
+      "projectPath": "C:\\Users\\wikto\\Source\\Repos\\Course1\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "packagesPath": "C:\\Users\\wikto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wikto\\Source\\Repos\\Course1\\BulkyBook\\BulkyBook.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

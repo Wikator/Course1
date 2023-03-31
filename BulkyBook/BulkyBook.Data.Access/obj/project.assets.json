@@ -8169,19 +8169,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\wikto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Data.Access\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Data.Access\\BulkyBook.DataAccess.csproj",
       "projectName": "BulkyBook.DataAccess",
-      "projectPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Data.Access\\BulkyBook.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Data.Access\\obj\\",
+      "projectPath": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Data.Access\\BulkyBook.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\wikto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wikto\\Source\\Repos\\Course1\\BulkyBook\\BulkyBook.Data.Access\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8195,8 +8195,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
+            "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
             }
           }
         }

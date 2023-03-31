@@ -1,107 +1,107 @@
 {
   "Files": [
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootswatchTheme.css",
       "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\lawn_leaf.jpg",
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\31edc904-8f6a-4d8e-bb2c-c6f703794164.jpg",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\31edc904-8f6a-4d8e-bb2c-c6f703794164.jpg",
       "PackagePath": "staticwebassets\\images\\products\\31edc904-8f6a-4d8e-bb2c-c6f703794164.jpg"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\3add6209-bd4f-4073-9768-3c83adca0fcc.jpg",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\3add6209-bd4f-4073-9768-3c83adca0fcc.jpg",
       "PackagePath": "staticwebassets\\images\\products\\3add6209-bd4f-4073-9768-3c83adca0fcc.jpg"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\4af4b591-8f3c-45c6-aa75-2a9067332c9d.png",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\4af4b591-8f3c-45c6-aa75-2a9067332c9d.png",
       "PackagePath": "staticwebassets\\images\\products\\4af4b591-8f3c-45c6-aa75-2a9067332c9d.png"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\5a39de3d-23e8-4cdd-a659-d8328e2f7ea6.jpg",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\5a39de3d-23e8-4cdd-a659-d8328e2f7ea6.jpg",
       "PackagePath": "staticwebassets\\images\\products\\5a39de3d-23e8-4cdd-a659-d8328e2f7ea6.jpg"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\9bd5b528-01bd-4088-ad8c-aad308aade33.jpg",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\9bd5b528-01bd-4088-ad8c-aad308aade33.jpg",
       "PackagePath": "staticwebassets\\images\\products\\9bd5b528-01bd-4088-ad8c-aad308aade33.jpg"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\d794be94-e891-4e87-9ee9-9184654e73bc.jpg",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\d794be94-e891-4e87-9ee9-9184654e73bc.jpg",
       "PackagePath": "staticwebassets\\images\\products\\d794be94-e891-4e87-9ee9-9184654e73bc.jpg"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Projects\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

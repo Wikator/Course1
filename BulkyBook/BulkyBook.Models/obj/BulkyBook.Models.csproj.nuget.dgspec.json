@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
+    "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Course1\\BulkyBook\\BulkyBook.Models\\obj\\",
+        "projectPath": "C:\\Users\\wikto\\source\\repos\\Course1\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\wikto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wikto\\Source\\Repos\\Course1\\BulkyBook\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
