@@ -1,5 +1,5 @@
-﻿using BulkyWeb7.Data;
-using BulkyWeb7.Models;
+﻿using Bulky.DataAccess7.Data;
+using Bulky.Models7;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BulkyWeb7.Controllers

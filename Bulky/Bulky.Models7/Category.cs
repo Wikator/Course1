@@ -3,7 +3,7 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace BulkyWeb7.Models
+namespace Bulky.Models7
 {
     public class Category
     {
