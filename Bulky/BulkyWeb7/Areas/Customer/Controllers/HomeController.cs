@@ -1,9 +1,10 @@
-﻿using Bulky.Models7;
+﻿using BulkyBook.Models7;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BulkyWeb7.Controllers
+namespace BulkyBookWeb7.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

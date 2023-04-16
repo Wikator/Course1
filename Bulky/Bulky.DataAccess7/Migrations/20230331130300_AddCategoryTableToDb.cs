@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace Bulky.DataAccess7.Migrations
+namespace BulkyBook.DataAccess7.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDb : Migration
